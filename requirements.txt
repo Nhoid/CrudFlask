@@ -4,3 +4,4 @@ Werkzeug~=3.0.3
 SQLAlchemy~=2.0.30
 reportlab~=4.2.0
 marshmallow~=3.21.3
+Flask-JWT-Extended
