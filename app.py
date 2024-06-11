@@ -12,7 +12,7 @@ app.config.from_object(Config)
 
 jwt = JWTManager(app)
 
-app.register_blueprint(vendas_controller, url_prefix='/v1')
+app.register_blueprint(vendas_controller)
 
 
 @app.route('/auth/register', methods=['POST'])
