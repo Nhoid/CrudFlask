@@ -1,3 +1,0 @@
-{
-  "msg": "Missing 'Bearer' type in 'Authorization' header. Expected 'Authorization: Bearer <JWT>'"
-}
