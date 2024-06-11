@@ -1,0 +1,640 @@
+GET http://localhost:5000/v1/sales/pdf?start_date=03-01-2024&end_date=10-01-2024
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> sales_report.pdf
+
+###
+
+GET http://localhost:5000/v1/sales/pdf?start_date=03-01-2024&end_date=10-01-2024
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T170957.500.html
+
+###
+
+GET http://localhost:5000/v1/sales/pdf?start_date=03-01-2024&end_date=10-01-2024
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T170456.500.html
+
+###
+
+GET http://localhost:5000/v1/sales/pdf?start_date=03-01-2024&end_date=04-01-2024
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T170343.500.html
+
+###
+
+GET http://localhost:5000/v1/sales/pdf?start_date=03-01-2024&end_date=04-01-2024
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T170323.500.html
+
+###
+
+GET http://localhost:5000/v1/sales/pdf?start_date=03-01-2024&end_date=04-01-2024
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T170204.500.html
+
+###
+
+GET http://localhost:5000/v1/sales/pdf?start_date=03-01-2024&end_date=04-01-2024
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T170106.500.html
+
+###
+
+GET http://localhost:5000/v1/sales/pdf?start_date=03-01-2024&end_date=04-01-2024
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T170035.500.html
+
+###
+
+GET http://localhost:5000/v1/sales/pdf?start_date=03-01-2024&end_date=04-01-2024
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T170022.500.html
+
+###
+
+GET http://localhost:5000/v1/sales/pdf?start_date=03-01-2024&end_date=04-01-2024
+Accept: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODA0OTU2MSwianRpIjoiMWZkNmM0M2YtZmVlMy00YzM3LTliM2YtOGNlYWQ1ZWUyYzJiIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImdlcmFsZGluaG9maWxobzE0QGdtYWlsLmNvbSIsIm5iZiI6MTcxODA0OTU2MSwiY3NyZiI6IjQxZWY4OWMwLWU2ODQtNGVkNi1iZDg4LTQ2MTg4ZDc5OTBhZCIsImV4cCI6MTcxODA1Njc2MX0.8zqx61juZHrwSssVjsMyKeidqrjz-nU9U34PdoSsT8E
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T165956.500.html
+
+###
+
+GET http://localhost:5000/v1/sales/pdf?start_date=03-01-2024&end_date=03-01-2024
+Accept: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODA0OTU2MSwianRpIjoiMWZkNmM0M2YtZmVlMy00YzM3LTliM2YtOGNlYWQ1ZWUyYzJiIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImdlcmFsZGluaG9maWxobzE0QGdtYWlsLmNvbSIsIm5iZiI6MTcxODA0OTU2MSwiY3NyZiI6IjQxZWY4OWMwLWU2ODQtNGVkNi1iZDg4LTQ2MTg4ZDc5OTBhZCIsImV4cCI6MTcxODA1Njc2MX0.8zqx61juZHrwSssVjsMyKeidqrjz-nU9U34PdoSsT8E
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T165938.500.html
+
+###
+
+GET http://localhost:5000/v1/sales/pdf?start_date=03-01-2024&end_date=03-01-2024
+Accept: application/json
+Authorization: Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODA0OTU2MSwianRpIjoiMWZkNmM0M2YtZmVlMy00YzM3LTliM2YtOGNlYWQ1ZWUyYzJiIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImdlcmFsZGluaG9maWxobzE0QGdtYWlsLmNvbSIsIm5iZiI6MTcxODA0OTU2MSwiY3NyZiI6IjQxZWY4OWMwLWU2ODQtNGVkNi1iZDg4LTQ2MTg4ZDc5OTBhZCIsImV4cCI6MTcxODA1Njc2MX0.8zqx61juZHrwSssVjsMyKeidqrjz-nU9U34PdoSsT8E
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T165929.401.json
+
+###
+
+POST http://localhost:5000/auth/login
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "geraldinhofilho14@gmail.com",
+  "password": "teste123"
+}
+
+<> 2024-06-10T165921.200.json
+
+###
+
+GET http://localhost:5000/sales/pdf
+Accept: application/json
+Authorization: Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODA0OTMyMCwianRpIjoiYmM0ZmI0YTMtMzA2Ni00MjQ1LWI2MGMtOGNlZGEzNTY5ZGViIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImdlcmFsZGluaG9maWxobzE0QGdtYWlsLmNvbSIsIm5iZiI6MTcxODA0OTMyMCwiY3NyZiI6IjcwYTgwYTFiLTljZWMtNDBkYS1iYTVlLTAyMGU0NjBkNzUxMyIsImV4cCI6MTcxODA1NjUyMH0.iUBwt39blcvi8TqtSYcmw_cVn0ORuJDWqd-AVl2o-AU
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T165748.404.html
+
+###
+
+GET http://localhost:5000/sales/pdf?start_date=2024-01-03&end_date=2024-01-11
+Accept: application/json
+Authorization: Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODA0OTMyMCwianRpIjoiYmM0ZmI0YTMtMzA2Ni00MjQ1LWI2MGMtOGNlZGEzNTY5ZGViIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImdlcmFsZGluaG9maWxobzE0QGdtYWlsLmNvbSIsIm5iZiI6MTcxODA0OTMyMCwiY3NyZiI6IjcwYTgwYTFiLTljZWMtNDBkYS1iYTVlLTAyMGU0NjBkNzUxMyIsImV4cCI6MTcxODA1NjUyMH0.iUBwt39blcvi8TqtSYcmw_cVn0ORuJDWqd-AVl2o-AU
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T165550.404.html
+
+###
+
+GET http://localhost:5000/sales/pdf?start_date=03-01-2024&end_date=11-01-2024
+Accept: application/json
+Authorization: Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODA0OTMyMCwianRpIjoiYmM0ZmI0YTMtMzA2Ni00MjQ1LWI2MGMtOGNlZGEzNTY5ZGViIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImdlcmFsZGluaG9maWxobzE0QGdtYWlsLmNvbSIsIm5iZiI6MTcxODA0OTMyMCwiY3NyZiI6IjcwYTgwYTFiLTljZWMtNDBkYS1iYTVlLTAyMGU0NjBkNzUxMyIsImV4cCI6MTcxODA1NjUyMH0.iUBwt39blcvi8TqtSYcmw_cVn0ORuJDWqd-AVl2o-AU
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T165530.404.html
+
+###
+
+POST http://localhost:5000/auth/login
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "geraldinhofilho14@gmail.com",
+  "password": "teste123"
+}
+
+<> 2024-06-10T165520.200.json
+
+###
+
+GET http://localhost:5000/sales/pdf?start_date=03_01_2024&end_date=11_01_2024
+Accept: application/json
+Authorization: Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODA0ODgyNCwianRpIjoiZWQxYTZkNTEtZDk1My00ODYxLTlkYzAtZDg5N2NmOWRhMDY3IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImdlcmFsZGluaG9maWxobzE0QGdtYWlsLmNvbSIsIm5iZiI6MTcxODA0ODgyNCwiY3NyZiI6ImY2MThkNWI0LWUzZTYtNGJkZi05Yjc1LTQ1ZDYxNzQ0MzE3NCIsImV4cCI6MTcxODA1NjAyNH0.GOE7EXIC0HZndzNW6--h7DvuwSn8OkC8mf88vcPgixw
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T165210.404.html
+
+###
+
+GET http://localhost:5000/sales/pdf?start_date=03-01-2024&end_date=11-01-2024
+Accept: application/json
+Authorization: Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODA0ODgyNCwianRpIjoiZWQxYTZkNTEtZDk1My00ODYxLTlkYzAtZDg5N2NmOWRhMDY3IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImdlcmFsZGluaG9maWxobzE0QGdtYWlsLmNvbSIsIm5iZiI6MTcxODA0ODgyNCwiY3NyZiI6ImY2MThkNWI0LWUzZTYtNGJkZi05Yjc1LTQ1ZDYxNzQ0MzE3NCIsImV4cCI6MTcxODA1NjAyNH0.GOE7EXIC0HZndzNW6--h7DvuwSn8OkC8mf88vcPgixw
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T165155.404.html
+
+###
+
+GET http://localhost:5000/sales/pdf?start_date=03/01/2024&end_date=11/01/2024
+Accept: application/json
+Authorization: Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODA0ODgyNCwianRpIjoiZWQxYTZkNTEtZDk1My00ODYxLTlkYzAtZDg5N2NmOWRhMDY3IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImdlcmFsZGluaG9maWxobzE0QGdtYWlsLmNvbSIsIm5iZiI6MTcxODA0ODgyNCwiY3NyZiI6ImY2MThkNWI0LWUzZTYtNGJkZi05Yjc1LTQ1ZDYxNzQ0MzE3NCIsImV4cCI6MTcxODA1NjAyNH0.GOE7EXIC0HZndzNW6--h7DvuwSn8OkC8mf88vcPgixw
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T165147.404.html
+
+###
+
+GET http://localhost:5000/sales/pdf?start_date=03/01/2024&end_date=18/01/2024
+Accept: application/json
+Authorization: Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODA0ODgyNCwianRpIjoiZWQxYTZkNTEtZDk1My00ODYxLTlkYzAtZDg5N2NmOWRhMDY3IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImdlcmFsZGluaG9maWxobzE0QGdtYWlsLmNvbSIsIm5iZiI6MTcxODA0ODgyNCwiY3NyZiI6ImY2MThkNWI0LWUzZTYtNGJkZi05Yjc1LTQ1ZDYxNzQ0MzE3NCIsImV4cCI6MTcxODA1NjAyNH0.GOE7EXIC0HZndzNW6--h7DvuwSn8OkC8mf88vcPgixw
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T165138.404.html
+
+###
+
+GET http://localhost:5000/sales/pdf?start_date=03-01-2024&end_date=18-01-2024
+Accept: application/json
+Authorization: Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODA0ODgyNCwianRpIjoiZWQxYTZkNTEtZDk1My00ODYxLTlkYzAtZDg5N2NmOWRhMDY3IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImdlcmFsZGluaG9maWxobzE0QGdtYWlsLmNvbSIsIm5iZiI6MTcxODA0ODgyNCwiY3NyZiI6ImY2MThkNWI0LWUzZTYtNGJkZi05Yjc1LTQ1ZDYxNzQ0MzE3NCIsImV4cCI6MTcxODA1NjAyNH0.GOE7EXIC0HZndzNW6--h7DvuwSn8OkC8mf88vcPgixw
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T164714.404.html
+
+###
+
+POST http://localhost:5000/auth/login
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "geraldinhofilho14@gmail.com",
+  "password": "teste123"
+}
+
+<> 2024-06-10T164704.200.json
+
+###
+
+GET http://localhost:5000/sales/pdf?start_date=03-01-2024&end_date=18-01-2024
+Accept: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODA0ODY3MCwianRpIjoiNmIyNDBhMmEtYzYwMS00MWM1LThlZWItNWVkODJlZWYxOTczIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImdlcmFsZGluaG9maWxobzE0QGdtYWlsLmNvbSIsIm5iZiI6MTcxODA0ODY3MCwiY3NyZiI6IjBhMzMzMzY5LTE2NzktNDY0My1hMDJlLTFkNDgzODk4Y2JmNSIsImV4cCI6MTcxODA1NTg3MH0.Pzv-fjG0696IDO72UA7anNXLbt8h7lfCskkdiX7S3L4
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T164443.404.html
+
+###
+
+POST http://localhost:5000/auth/login
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "geraldinhofilho14@gmail.com",
+  "password": "teste123"
+}
+
+<> 2024-06-10T164430.200.json
+
+###
+
+GET http://localhost:5000/sales/pdf?start_date=03-01-2024&end_date=18-01-2024
+Accept: application/json
+Authorization: Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODA0MjMwMSwianRpIjoiNTU5N2Y5NzMtOGEzNC00ZDQ3LTk5ODctZGFiMjI3NGRkNWNiIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImdlcmFsZGluaG9maWxobzE0QGdtYWlsLmNvbSIsIm5iZiI6MTcxODA0MjMwMSwiY3NyZiI6ImE1NjMxZmQ5LTEzNWEtNDc0Yi1hNzc0LWJiYmY5MTQyNmQyMCIsImV4cCI6MTcxODA0OTUwMX0.-ElaUkmlYLl6b9NXuGOS0a5hwfWBEk5B9iafNESpssM
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T145850.404.html
+
+###
+
+GET http://localhost:5000/sales/pdf?start_date=03-01-2024&end_date=18-01-2024
+Accept: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODA0MjMwMSwianRpIjoiNTU5N2Y5NzMtOGEzNC00ZDQ3LTk5ODctZGFiMjI3NGRkNWNiIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImdlcmFsZGluaG9maWxobzE0QGdtYWlsLmNvbSIsIm5iZiI6MTcxODA0MjMwMSwiY3NyZiI6ImE1NjMxZmQ5LTEzNWEtNDc0Yi1hNzc0LWJiYmY5MTQyNmQyMCIsImV4cCI6MTcxODA0OTUwMX0.-ElaUkmlYLl6b9NXuGOS0a5hwfWBEk5B9iafNESpssM
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T145838.404.html
+
+###
+
+POST http://localhost:5000/auth/login
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "geraldinhofilho14@gmail.com",
+  "password": "teste123"
+}
+
+<> 2024-06-10T145821.200.json
+
+###
+
+GET http://localhost:5000/sales/pdf?start_date=03-01-2024&end_date=18-01-2024
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T145742.404.html
+
+###
+
+GET http://localhost:5000/sales/pdf?start_date=03-01-2024&end_date=18-01-2024
+Accept: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODAzMjk4MywianRpIjoiNjAyNjM5NjItNjkzMi00YjhiLWIwYzQtNDVlNmM3Nzg0Y2Y1IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3RlQGVtYWlsLmNvbSIsIm5iZiI6MTcxODAzMjk4MywiY3NyZiI6ImU0ZDRlMjUxLWNkZjctNGM5NC1iYTk1LWYyNmI2ODlkNjlmNCIsImV4cCI6MTcxODA0MDE4M30.Odu7fduweCA-JAxQT-BP-i4AOIVIrun65DO0zogMK-I
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-06-10T145718.404.html
+
+###
+
+POST http://localhost:5000/auth/login
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "geraldinhofilho14@gmail.com",
+  "password": "teste123"
+}
+
+<> 2024-06-10T145611.200.json
+
+###
+
+POST http://localhost:5000/auth/login
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "geraldinhofilho14@gmail.com",
+  "password": "teste123"
+}
+
+<> 2024-06-10T145423.500.html
+
+###
+
+POST http://localhost:5000/auth/login
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "geraldinhofilho14@gmail.com",
+  "password": "teste123"
+}
+
+<> 2024-06-10T145345.500.html
+
+###
+
+POST http://localhost:5000/auth/register
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "geraldinhofilho14@gmail.com",
+  "password": "teste123"
+}
+
+<> 2024-06-10T145239.500.html
+
+###
+
+POST http://localhost:5000/auth/register
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "geraldinhofilho14@gmail.com",
+  "password": "teste123"
+}
+
+<> 2024-06-10T145212.500.html
+
+###
+
+POST http://localhost:5000/auth/register
+Content-Type: application/json
+Accept: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "email": "geraldinhofilho14@gmail.com",
+  "password": "teste123"
+}
+
+<> 2024-06-10T145151.500.html
+
+###
+
+POST http://localhost:5000/auth/register
+Content-Type: application/json
+Accept: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "email": "geraldinhofilho14@gmail.com",
+  "password": "teste123"
+}
+
+<> 2024-06-10T145142.500.html
+
+###
+
+DELETE http://localhost:5000/v1/sales/1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODAzMjk4MywianRpIjoiNjAyNjM5NjItNjkzMi00YjhiLWIwYzQtNDVlNmM3Nzg0Y2Y1IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3RlQGVtYWlsLmNvbSIsIm5iZiI6MTcxODAzMjk4MywiY3NyZiI6ImU0ZDRlMjUxLWNkZjctNGM5NC1iYTk1LWYyNmI2ODlkNjlmNCIsImV4cCI6MTcxODA0MDE4M30.Odu7fduweCA-JAxQT-BP-i4AOIVIrun65DO0zogMK-I
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-06-10T122455.200.json
+
+###
+
+POST http://localhost:5000/v1/sales
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODAzMjk4MywianRpIjoiNjAyNjM5NjItNjkzMi00YjhiLWIwYzQtNDVlNmM3Nzg0Y2Y1IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3RlQGVtYWlsLmNvbSIsIm5iZiI6MTcxODAzMjk4MywiY3NyZiI6ImU0ZDRlMjUxLWNkZjctNGM5NC1iYTk1LWYyNmI2ODlkNjlmNCIsImV4cCI6MTcxODA0MDE4M30.Odu7fduweCA-JAxQT-BP-i4AOIVIrun65DO0zogMK-I
+Content-Length: 101
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "nome": "João da Silva",
+  "produto": "Produto ABC",
+  "valor": 100.50,
+  "data": "2024-06-10"
+}
+
+<> 2024-06-10T122446.201.json
+
+###
+
+DELETE http://localhost:5000/v1/sales/1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODAzMjk4MywianRpIjoiNjAyNjM5NjItNjkzMi00YjhiLWIwYzQtNDVlNmM3Nzg0Y2Y1IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3RlQGVtYWlsLmNvbSIsIm5iZiI6MTcxODAzMjk4MywiY3NyZiI6ImU0ZDRlMjUxLWNkZjctNGM5NC1iYTk1LWYyNmI2ODlkNjlmNCIsImV4cCI6MTcxODA0MDE4M30.Odu7fduweCA-JAxQT-BP-i4AOIVIrun65DO0zogMK-I
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-06-10T122312.404.json
+
+###
+
+POST http://localhost:5000/auth/login
+Content-Type: application/json
+Accept: application/json
+Content-Length: 55
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "email": "teste@email.com",
+  "password": "senha"
+}
+
+<> 2024-06-10T122303.200.json
+
+###
+
+DELETE http://localhost:5000/v1/sales/1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODAzMjgyNywianRpIjoiOTA2Y2Q4ZTAtYzNmNC00YWQ2LTgwMGUtMWU0Mjk5YzliODczIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3RlQGVtYWlsLmNvbSIsIm5iZiI6MTcxODAzMjgyNywiY3NyZiI6ImZiYmIzOGYwLTE5NGQtNDE0ZC04ZGZlLTRkZjMyNzcyNWY5NyIsImV4cCI6MTcxODA0MDAyN30.Aw55_6zV8iytljK2-yqcEwVEg7GwMD3-LwSiT8qYQTc
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-06-10T122045.404.json
+
+###
+
+POST http://localhost:5000/auth/login
+Content-Type: application/json
+Accept: application/json
+Content-Length: 55
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "email": "teste@email.com",
+  "password": "senha"
+}
+
+<> 2024-06-10T122027.200.json
+
+###
+
+DELETE http://localhost:5000/v1/sales/1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODAzMjc0MiwianRpIjoiZWFiNjg5ZGQtMWQ1Yi00MmEzLTllMTEtN2I1YzI0YzVmYmIzIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3RlQGVtYWlsLmNvbSIsIm5iZiI6MTcxODAzMjc0MiwiY3NyZiI6IjU3MmVjZGZkLTNmYjUtNGQ0OC1iY2I4LWE0MDFjZDkyYzkwMiIsImV4cCI6MTcxODAzOTk0Mn0.QU9TIy1JVm_2yULwEukmSEhRiP7G2po0PWr20Q-GzDA
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-06-10T121914.500.html
+
+###
+
+DELETE http://localhost:5000/v1/sales/1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODAzMjc0MiwianRpIjoiZWFiNjg5ZGQtMWQ1Yi00MmEzLTllMTEtN2I1YzI0YzVmYmIzIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3RlQGVtYWlsLmNvbSIsIm5iZiI6MTcxODAzMjc0MiwiY3NyZiI6IjU3MmVjZGZkLTNmYjUtNGQ0OC1iY2I4LWE0MDFjZDkyYzkwMiIsImV4cCI6MTcxODAzOTk0Mn0.QU9TIy1JVm_2yULwEukmSEhRiP7G2po0PWr20Q-GzDA
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-06-10T121911.500.html
+
+###
+
+POST http://localhost:5000/auth/login
+Content-Type: application/json
+Accept: application/json
+Content-Length: 55
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+  "email": "teste@email.com",
+  "password": "senha"
+}
+
+<> 2024-06-10T121902.200.json
+
+###
+
+DELETE http://localhost:5000/v1/sales/1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODAzMjI2OSwianRpIjoiYzIxMjIyYjItNDM5My00ZjA3LWJjZmMtMjM3YTc5ZGNlY2M2IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3RlQGVtYWlsLmNvbSIsIm5iZiI6MTcxODAzMjI2OSwiY3NyZiI6IjMwNTIwMDk4LWVkOTEtNDIxOS04NjRhLTZkNmQ1ZTAwMTUzNSIsImV4cCI6MTcxODAzOTQ2OX0.ebjYsSr61pWDMzG38zUkR1-UVJSoBYMv0fPCEJYWAiE
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-06-10T121831.500.html
+
+###
+
+DELETE http://localhost:5000/v1/sales/1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODAzMjI2OSwianRpIjoiYzIxMjIyYjItNDM5My00ZjA3LWJjZmMtMjM3YTc5ZGNlY2M2IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3RlQGVtYWlsLmNvbSIsIm5iZiI6MTcxODAzMjI2OSwiY3NyZiI6IjMwNTIwMDk4LWVkOTEtNDIxOS04NjRhLTZkNmQ1ZTAwMTUzNSIsImV4cCI6MTcxODAzOTQ2OX0.ebjYsSr61pWDMzG38zUkR1-UVJSoBYMv0fPCEJYWAiE
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-06-10T121828.500.html
+
+###
+
+PUT http://localhost:5000/v1/sales/1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODAzMjI2OSwianRpIjoiYzIxMjIyYjItNDM5My00ZjA3LWJjZmMtMjM3YTc5ZGNlY2M2IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3RlQGVtYWlsLmNvbSIsIm5iZiI6MTcxODAzMjI2OSwiY3NyZiI6IjMwNTIwMDk4LWVkOTEtNDIxOS04NjRhLTZkNmQ1ZTAwMTUzNSIsImV4cCI6MTcxODAzOTQ2OX0.ebjYsSr61pWDMzG38zUkR1-UVJSoBYMv0fPCEJYWAiE
+Content-Length: 26
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "nome": "Joãozinho"
+}
+
+<> 2024-06-10T121807.200.json
+
+###
+
+PUT http://localhost:5000/v1/sales
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxODAzMjI2OSwianRpIjoiYzIxMjIyYjItNDM5My00ZjA3LWJjZmMtMjM3YTc5ZGNlY2M2IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3RlQGVtYWlsLmNvbSIsIm5iZiI6MTcxODAzMjI2OSwiY3NyZiI6IjMwNTIwMDk4LWVkOTEtNDIxOS04NjRhLTZkNmQ1ZTAwMTUzNSIsImV4cCI6MTcxODAzOTQ2OX0.ebjYsSr61pWDMzG38zUkR1-UVJSoBYMv0fPCEJYWAiE
+Content-Length: 26
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "nome": "Joãozinho"
+}
+
+<> 2024-06-10T121729.405.html
+
+###
+
