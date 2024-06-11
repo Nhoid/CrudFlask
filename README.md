@@ -1,5 +1,5 @@
 # CRUD em Flask
-=============
+---
 
 Este é um projeto de CRUD (Create, Read, Update, Delete) desenvolvido em Flask, uma framework web em Python. O objetivo deste projeto é fornecer uma aplicação simples e funcional para gerenciar vendas, utilizando uma API RESTful e integração com um banco de dados SQLite.
 
@@ -35,13 +35,129 @@ Este é um projeto de CRUD (Create, Read, Update, Delete) desenvolvido em Flask,
     - Registro e login de usuários.
     - Geração de token JWT após o login bem-sucedido.
 
+   ### Endpoints
+
+    - **Registro de Usuário**
+        - **URL:** `/auth/register`
+        - **Método:** `POST`
+        - **Requisição:**
+          ```json
+          {
+            "username": "exemplo",
+            "password": "senha123"
+          }
+          ```
+        - **Resposta:**
+          ```json
+          {
+            "message": "Usuário registrado com sucesso."
+          }
+          ```
+
+    - **Login de Usuário**
+        - **URL:** `/auth/login`
+        - **Método:** `POST`
+        - **Requisição:**
+          ```json
+          {
+            "username": "exemplo",
+            "password": "senha123"
+          }
+          ```
+        - **Resposta:**
+          ```json
+          {
+            "Token": "seu_token_jwt"
+          }
+          ```
+
 2. **CRUD de Vendas**
     - Consulta, adição, edição e exclusão de vendas.
     - Campos necessários para adição e edição: `nome_cliente`, `produto`, `valor`, `data_venda`.
 
+   ### Endpoints
+
+    - **Consulta de Vendas**
+        - **URL:** `/sales`
+        - **Método:** `GET`
+      - **Requisição:** (Requer token JWT no cabeçalho `Authorization: Bearer <seu_token_jwt>`)
+        - **Resposta:**
+          ```json
+          [
+            {
+              "id": 1,
+              "nome_cliente": "Cliente A",
+              "produto": "Produto A",
+              "valor": 100.0,
+              "data_venda": "2024-06-10"
+            },
+            ...
+          ]
+          ```
+
+    - **Adicionar Venda**
+        - **URL:** `/sales`
+        - **Método:** `POST`
+      - **Requisição:** (Requer token JWT no cabeçalho `Authorization: Bearer <seu_token_jwt>`)
+          ```json
+          {
+            "nome": "Cliente B",
+            "produto": "Produto B",
+            "valor": 200.0,
+            "data": "2024-06-11"
+          }
+          ```
+        - **Resposta:**
+          ```json
+          {
+            "message": "Venda adicionada com sucesso."
+          }
+          ```
+
+    - **Editar Venda**
+        - **URL:** `/sales/<id>`
+        - **Método:** `PUT`
+      - **Requisição:** (Requer token JWT no cabeçalho `Authorization: Bearer <seu_token_jwt>`)
+          ```json
+          {
+            "nome": "Cliente C",
+            "produto": "Produto C",
+            "valor": 300.0,
+            "data": "2024-06-12"
+          }
+          ```
+        - **Resposta:**
+          ```json
+          {
+            "message": "Venda atualizada com sucesso."
+          }
+          ```
+
+    - **Excluir Venda**
+        - **URL:** `/sales/<id>`
+        - **Método:** `DELETE`
+      - **Requisição:** (Requer token JWT no cabeçalho `Authorization: Bearer <seu_token_jwt>`)
+        - **Resposta:**
+          ```json
+          {
+            "message": "Venda excluída com sucesso."
+          }
+          ```
+          
 3. **Relatório em PDF**
-    - Geração de um PDF contendo todas as vendas realizadas em um período específico.
-    - Parâmetros: `start_date` (data de início) e `end_date` (data de término).
+   - Geração de um PDF contendo todas as vendas realizadas em um período específico.
+   - Parâmetros: `start_date` (data de início) e `end_date` (data de término).
+
+   ### Endpoint
+
+   - **Geração de Relatório em PDF**
+       - **URL:** `/sales/pdf?start_date=dd-mm-yyyy&end_date=dd-mm-yyyy`
+       - **Método:** `GET`
+       - **Requisição:** (Requer token JWT no cabeçalho `Authorization` com o formato `Bearer <seu_token_jwt>`)
+       - **Resposta:** Retorna um arquivo PDF contendo todas as vendas realizadas no período especificado.
+
+
+
 
 ## Estrutura do Projeto
 
