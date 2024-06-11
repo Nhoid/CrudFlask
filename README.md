@@ -11,6 +11,8 @@ Este é um projeto de CRUD (Create, Read, Update, Delete) desenvolvido em Flask,
 
 - **PyJWT (tokens JWT)**:
     - Utilizado para a segurança da autenticação de usuários através de tokens JWT.
+- **Flask-JWT-Extended**:
+    - Utilizado para criar os Token.
 
 - **Flask-RESTful**:
     - Utilizado para facilitar a criação de APIs RESTful com Flask.
@@ -176,7 +178,7 @@ Este é um projeto de CRUD (Create, Read, Update, Delete) desenvolvido em Flask,
     - Definição dos modelos de dados e seus schemas no arquivo `database/models.py`.
 
 - **Lógica dos Endpoints e CRUD de Vendas**
-    - Implementação da lógica nos arquivos dentro do diretório `vendas/vendas-controller`.
+    - Implementação da lógica nos arquivos dentro do diretório `vendas/vendas_controller`.
 
 ## Instruções de Execução
 
@@ -192,17 +194,24 @@ Este é um projeto de CRUD (Create, Read, Update, Delete) desenvolvido em Flask,
         cd CrudFlask
         ```
 
-3. **Instalação de Dependências**
+3. **Configuração do Ambiente Virtual (opcional, mas recomendado)**
+    - Crie e ative um ambiente virtual (venv) para isolar as dependências do projeto:
+        ```
+        python3 -m venv venv
+        source venv/bin/activate
+        ```
+
+4. **Instalação de Dependências**
     - Instale as dependências listadas no arquivo `requirements.txt`:
         ```
         pip install -r requirements.txt
         ```
 
-4. **Configuração**
+5. **Configuração**
     - Configure o arquivo `config/config.ini` com as informações necessárias, como variáveis de acesso ao banco de dados e segredo para JWT.
 
-5. **Execução do Servidor Flask**
+6. **Execução do Servidor Flask**
     - Inicie o servidor Flask executando o arquivo `app.py`.
 
-6. **Acesso à Aplicação**
+7. **Acesso à Aplicação**
     - Acesse a aplicação em seu navegador através do endereço `http://localhost:5000`.
