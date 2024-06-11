@@ -9,7 +9,7 @@ from sqlalchemy import and_
 from sqlalchemy.exc import SQLAlchemyError
 
 from database.database import session
-from database.models import Vendaschema, Venda, User
+from database.models import VendaSchema, Venda, User
 from flask import Flask, jsonify, request, Blueprint, send_file
 
 vendas_controller = Blueprint('vendas_controller', __name__)
@@ -19,13 +19,14 @@ vendas_controller = Blueprint('vendas_controller', __name__)
 @vendas_controller.route("/sales", methods=['GET'])
 @jwt_required()
 def get_vendas():
-    vends = session.query(Vendaschema).all()
-    #current_user = get_jwt_identity()
-    #print(current_user)
-    if not vends:
+    query = session.query(Venda).all()
+    if not query:
         return jsonify({"message": "Venda não encontrada"}), 404
 
-    return jsonify(vends)
+    vends = VendaSchema(many=True)
+    result = vends.dump(query)
+
+    return jsonify(result), 200
 
 
 #post /sales : nome_cliente, produto, valor, data_venda
@@ -44,7 +45,7 @@ def new_vendas():
     nome_cliente = data.get('nome')
     produto = data.get('produto')
     valor = data.get('valor')
-    data_venda = datetime.strptime(data['data'], "%Y-%m-%d")
+    data_venda = datetime.strptime(data.get('data'), '%Y-%m-%d')
 
     venda = Venda(nome_cliente, produto, valor, data_venda, user.id)
     session.add(venda)

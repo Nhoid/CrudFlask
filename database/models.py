@@ -46,17 +46,7 @@ class Venda(Base):
 User.vendas = relationship("Venda", back_populates="user")
 
 
-# Classes para serialização
-
-#User
-class Userschema(Schema):
-    __tablename__ = 'users'
-    id = fields.Integer(dump_only=True)
-    email = fields.String(dump_only=True)
-
-#Venda
-class Vendaschema(Schema):
-    __tablename__ = 'vendas'
+class VendaSchema(Schema):
     id = fields.Integer()
     nome_cliente = fields.String()
     produto = fields.String()

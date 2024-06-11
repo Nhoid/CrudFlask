@@ -2,7 +2,7 @@ from flask import Flask, jsonify, request
 from flask_jwt_extended import JWTManager, create_access_token
 
 from database.database import session
-from database.models import User, Userschema
+from database.models import User
 from config.config import Config
 from vendas.vendas_controller import vendas_controller
 
